@@ -70,7 +70,7 @@ UnFortunately, there are no Mandatory vars for the UniBorg Support Config.
 
 # Cʀᴇᴅɪᴛs 📍
 ## • MADBOY   »»  <a href="https://github.com/madboy482" alt="MadBoy"> <img src="https://img.shields.io/badge/MADBOY-30302f?logo=github" /></a>
-## • JASS MANAK  »»  <a href="https://github.com/JassManak1152" alt="Jass Manak"> <img src="https://img.shields.io/badge/Jass Manak-98AFC7?logo=github" /></a>
+## • JASS MANAK  »»  <a href="https://github.com/JassManak1125" alt="Jass Manak"> <img src="https://img.shields.io/badge/Jass Manak-98AFC7?logo=github" /></a>
 ## • PRANAV  »»  <a href="https://github.com/Pranav18262" alt="Pranav"> <img src="https://img.shields.io/badge/Pranav-625D5D?logo=github" /></a>
 
 -------------------------------------------------
