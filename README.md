@@ -75,6 +75,11 @@ UnFortunately, there are no Mandatory vars for the UniBorg Support Config.
 
 -------------------------------------------------
 
+# Kᴀɴɢᴇʀs 🤬
+## • JassManak »» <a href="https://github.com/JassManak1125" alt="JassManak"> <img src="https://img.shields.io/badge/JassManak (Kanger)-FFC0CB?logo=github" /></a>
+
+-------------------------------------------------
+
 # Licence 📋
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
