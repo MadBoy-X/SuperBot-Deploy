@@ -3,7 +3,6 @@ PyGithub
 moviepy
 aiofiles
 vcam
-pokedex.py
 backports.lzma
 spotdl
 aiohttp
