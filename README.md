@@ -1,6 +1,6 @@
 # SᴜᴘᴇʀBᴏᴛ-Dᴇᴘʟᴏʏ
 
-Heroku Compatible Deploying for SuperBot
+### Heroku Compatible Deploying for SuperBot
 
 -------------------------------------------------
 
