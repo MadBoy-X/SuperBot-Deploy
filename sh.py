@@ -2,8 +2,8 @@ import os
 import subprocess
 os.system("git clone https://github.com/MadBoy-X/SuperBot superbot")
 os.chdir("superbot")
+os.system("python -m pip install --upgrade pip")
 os.system("pip install aria2p")
-os.system("/usr/local/bin/python -m pip install --upgrade pip")
 process = subprocess.Popen(
         ["python3", "-m", "SuperBot"],
         stdout=subprocess.PIPE,
